@@ -1,6 +1,6 @@
 /**
  * This Apps Script finds all Google Docs in a specified Google Drive folder, then merges
- * all of the Docs in that folder into a single new Google Doc.
+ * all of those Docs into a single new Google Doc.
  *
  * The folder ID must be supplied below before executing this script.
  */
